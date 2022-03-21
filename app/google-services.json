@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898528404226",
+    "firebase_url": "https://bacd-60542.firebaseio.com",
+    "project_id": "bacd-60542",
+    "storage_bucket": "bacd-60542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898528404226:android:d9c06e00b23c3ba4",
+        "android_client_info": {
+          "package_name": "com.practice.bacd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898528404226-97ublp81lh2mt9u6n8hb139j8ph5vm6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUs0rjhN8yg5Z0-0niVFIgYKpMd83d7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898528404226-97ublp81lh2mt9u6n8hb139j8ph5vm6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
